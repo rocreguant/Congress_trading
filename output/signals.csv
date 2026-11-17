@@ -1,0 +1,289 @@
+ticker,score,n_trades,n_members,buyers,sellers,last_disclosed,signal
+KO,-0.786,2,2,"Kevin Hern, Lloyd Doggett",,2026-11-05,SELL
+ARGX,0.652,3,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,BUY
+RVTY,-0.51,4,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,SELL
+JNJ,-0.446,3,2,Lloyd Doggett,"Thomas H. Kean, Jr.",2026-10-07,HOLD
+IBM,-0.42,5,4,"Gilbert Ray Cisneros, Jr., Lloyd Doggett","Maria Elvira Salazar, Pete Sessions",2026-10-21,HOLD
+APP,-0.408,4,1,"Gilbert Ray Cisneros, Jr.","Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+WBD,-0.385,3,3,,"Gilbert Ray Cisneros, Jr., Julie Johnson, Nancy Pelosi",2026-11-09,HOLD
+TOELF,-0.383,2,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+LNTH,-0.383,2,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+PPG,-0.37,1,1,Lloyd Doggett,,2026-10-05,HOLD
+COST,-0.358,3,2,,"Pete Sessions, Rick W. Allen",2026-10-14,HOLD
+MBGL,0.352,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+STRC,-0.352,1,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+DVN,0.344,6,1,,Kevin Hern,2026-10-02,HOLD
+ON,0.323,2,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+MRSH,0.293,6,1,,Kevin Hern,2026-10-02,HOLD
+BBIO,0.289,3,1,"Gilbert Ray Cisneros, Jr.","Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+HD,-0.289,14,6,"David J. Taylor, Lloyd Doggett","David J. Taylor, Gilbert Ray Cisneros, Jr., Kevin Hern, Pete Sessions, Rick Larsen",2026-11-12,HOLD
+CTVA,-0.285,2,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+VIK,0.272,6,1,,April McClain Delaney,2026-09-01,HOLD
+GOOG,-0.27,5,4,Cleo Fields,"Michael A. Rulli, Pete Sessions, Scott Franklin",2026-10-16,HOLD
+CMG,-0.259,2,2,,"Gilbert Ray Cisneros, Jr., Pete Sessions",2026-11-09,HOLD
+PTC,-0.258,4,2,,"Gilbert Ray Cisneros, Jr., Kevin Hern",2026-11-09,HOLD
+HONA,0.246,3,3,,"Carol D. Miller, Kevin Hern, Maria Elvira Salazar",2026-10-29,HOLD
+DDOG,-0.246,3,2,Jonathan L. Jackson,Maria Elvira Salazar,2026-11-02,HOLD
+TTD,-0.243,3,1,"Gilbert Ray Cisneros, Jr.","Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+AAPL,-0.235,6,5,Cleo Fields,"John J. McGuire III, Kevin Hern, Pete Sessions, Scott Franklin",2026-10-05,HOLD
+EL,-0.231,2,1,Jonathan L. Jackson,,2026-11-02,HOLD
+MIDD,0.227,6,1,,April McClain Delaney,2026-09-01,HOLD
+AMZN,-0.222,2,1,,Pete Sessions,2026-10-27,HOLD
+LLY,0.222,2,2,"Gilbert Ray Cisneros, Jr.",David J. Taylor,2026-11-12,HOLD
+NVDA,-0.222,8,6,"Cleo Fields, John J. McGuire III, Maria Elvira Salazar","Daniel Meuser, Gilbert Ray Cisneros, Jr., Pete Sessions",2026-11-09,HOLD
+BSX,0.214,5,2,"Gilbert Ray Cisneros, Jr.",Kevin Hern,2026-09-15,HOLD
+COO,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+GIS,-0.192,1,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+FOXA,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+LITE,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+LNT,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+CPB,-0.192,1,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+TKO,-0.192,1,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+SNEJF,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+CMCSA,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+CMS,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+CF,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+CIEN,-0.192,1,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+ENGQF,-0.192,1,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+BNS,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+EIX,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+BNPQF,-0.192,1,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+SARO,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+MICR,-0.192,1,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+UBER,-0.192,1,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+ARE,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+MRAAF,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+O,-0.192,1,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+NOW,0.192,1,1,"Gilbert Ray Cisneros, Jr.",,2026-11-09,HOLD
+ILMN,-0.192,1,1,,"Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+TDY,0.191,5,1,,April McClain Delaney,2026-09-01,HOLD
+LH,0.187,4,1,,April McClain Delaney,2026-09-01,HOLD
+NXPI,0.183,3,1,"Gilbert Ray Cisneros, Jr.","Gilbert Ray Cisneros, Jr.",2026-10-09,HOLD
+SHW,-0.181,1,1,,Rick W. Allen,2026-11-10,HOLD
+WFC,0.178,2,2,"Gilbert Ray Cisneros, Jr.",Michael A. Rulli,2026-11-09,HOLD
+MRNA,0.177,4,2,"Gilbert Ray Cisneros, Jr., Maria Elvira Salazar",Maria Elvira Salazar,2026-11-09,HOLD
+JBGS,0.176,1,1,,J. French Hill,2026-11-09,HOLD
+LAMR,-0.175,3,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+ITW,0.171,4,1,,Kevin Hern,2026-09-15,HOLD
+ITT,-0.168,3,2,,"April McClain Delaney, Gilbert Ray Cisneros, Jr.",2026-10-09,HOLD
+BRK.B,-0.164,4,3,"Maria Elvira Salazar, Richard McCormick","Maria Elvira Salazar, Pete Sessions",2026-10-15,HOLD
+LIN,0.159,4,2,"Thomas H. Kean, Jr.",Kevin Hern,2026-10-02,HOLD
+LMT,0.157,3,1,,Kevin Hern,2026-10-02,HOLD
+MOG.A,0.152,2,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+GMED,0.152,2,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+LYV,0.151,3,1,,April McClain Delaney,2026-09-01,HOLD
+META,0.15,4,2,"Gilbert Ray Cisneros, Jr., Maria Elvira Salazar","Gilbert Ray Cisneros, Jr., Maria Elvira Salazar",2026-11-09,HOLD
+TXRH,0.15,2,1,"Gilbert Ray Cisneros, Jr.","Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+TXN,0.147,2,2,"Thomas H. Kean, Jr.",Kevin Hern,2026-10-27,HOLD
+PG,-0.142,9,5,"David J. Taylor, Lloyd Doggett, Maria Elvira Salazar","David J. Taylor, Kevin Hern, Pete Sessions",2026-11-12,HOLD
+PODD,0.14,3,1,"Gilbert Ray Cisneros, Jr.","Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+VSAT,0.138,2,1,,Jonathan L. Jackson,2026-10-01,HOLD
+ROK,0.138,3,1,,Kevin Hern,2026-10-02,HOLD
+AZO,-0.136,1,1,,Rick W. Allen,2026-10-14,HOLD
+CPAY,0.135,3,1,,April McClain Delaney,2026-09-01,HOLD
+RBC,-0.131,1,1,,"Gilbert Ray Cisneros, Jr.",2026-10-09,HOLD
+WAB,0.13,2,1,,April McClain Delaney,2026-09-01,HOLD
+EMR,0.127,3,1,,Kevin Hern,2026-10-02,HOLD
+NEE,0.127,3,1,,Kevin Hern,2026-10-02,HOLD
+GOOGL,-0.125,5,4,David J. Taylor,"Michael A. Rulli, Pete Sessions, Thomas H. Kean, Jr.",2026-11-12,HOLD
+BP,0.123,1,1,,Jonathan L. Jackson,2026-11-02,HOLD
+SPHR,0.123,1,1,,Jonathan L. Jackson,2026-11-02,HOLD
+STE,0.12,2,2,,"April McClain Delaney, Kevin Hern",2026-09-15,HOLD
+CSCO,0.112,5,2,"Gilbert Ray Cisneros, Jr.",Maria Elvira Salazar,2026-11-09,HOLD
+MSFT,-0.112,14,10,"Cleo Fields, Gilbert Ray Cisneros, Jr., Josh Gottheimer, Lisa C. McClain","David J. Taylor, Josh Gottheimer, Kevin Hern, Maria Elvira Salazar, Michael A. Rulli, Pete Sessions, Thomas H. Kean, Jr.",2026-10-05,HOLD
+FMAO,-0.112,1,1,Robert E. Latta,,2026-10-20,HOLD
+TSLA,-0.109,2,2,,"Gilbert Ray Cisneros, Jr., Pete Sessions",2026-10-05,HOLD
+ASML,0.105,1,1,,Kevin Hern,2026-10-27,HOLD
+CL,0.103,4,1,,Kevin Hern,2026-09-15,HOLD
+SCI,0.1,2,1,,April McClain Delaney,2026-09-01,HOLD
+MCD,-0.098,4,3,Scott Franklin,"Josh Gottheimer, Pete Sessions",2026-10-27,HOLD
+CINF,-0.098,2,1,"Gilbert Ray Cisneros, Jr.","Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+FIS,0.098,2,1,"Gilbert Ray Cisneros, Jr.","Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+IQV,0.096,3,1,,Kevin Hern,2026-09-15,HOLD
+ALKS,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+ZTS,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+WUXIF,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+YETI,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+MCHP,-0.094,1,1,,"Gilbert Ray Cisneros, Jr.",2026-10-09,HOLD
+OXM,-0.094,1,1,,"Gilbert Ray Cisneros, Jr.",2026-10-09,HOLD
+GTES,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+FSS,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+RARE,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+CYTK,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+DPZ,-0.094,1,1,,"Gilbert Ray Cisneros, Jr.",2026-10-09,HOLD
+SMTC,-0.094,1,1,,"Gilbert Ray Cisneros, Jr.",2026-10-09,HOLD
+EPAC,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+STAG,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+TNDM,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+COCO,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+DECK,-0.094,1,1,,"Gilbert Ray Cisneros, Jr.",2026-10-09,HOLD
+ALGM,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+AEIS,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+BCPC,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+PRAX,0.094,1,1,"Gilbert Ray Cisneros, Jr.",,2026-10-09,HOLD
+HALO,-0.094,1,1,,"Gilbert Ray Cisneros, Jr.",2026-10-09,HOLD
+OKE,0.092,2,1,,Kevin Hern,2026-09-15,HOLD
+WMT,0.09,4,4,"Gilbert Ray Cisneros, Jr.","Jonathan L. Jackson, Kevin Hern, Pete Sessions",2026-10-05,HOLD
+BHE,0.086,2,2,"Gilbert Ray Cisneros, Jr., Josh Gottheimer",,2026-11-04,HOLD
+TSCO,0.085,2,1,,April McClain Delaney,2026-09-01,HOLD
+UNH,0.084,3,2,,"Kevin Hern, Maria Elvira Salazar",2026-10-02,HOLD
+STX,0.083,3,2,,"Kevin Hern, Lisa C. McClain",2026-10-27,HOLD
+GH,-0.083,1,1,Jonathan L. Jackson,,2026-10-01,HOLD
+PHR,-0.083,2,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+PAYX,0.083,1,1,,April McClain Delaney,2026-09-02,HOLD
+NVO,0.083,3,2,Scott Franklin,Kevin Hern,2026-09-15,HOLD
+NDAQ,0.081,1,1,,April McClain Delaney,2026-09-01,HOLD
+MKL,0.081,1,1,,April McClain Delaney,2026-09-01,HOLD
+TRMB,0.081,1,1,,April McClain Delaney,2026-09-01,HOLD
+SIG,0.081,1,1,,April McClain Delaney,2026-09-01,HOLD
+TDG,0.081,1,1,,April McClain Delaney,2026-09-01,HOLD
+CNM,0.081,1,1,,April McClain Delaney,2026-09-01,HOLD
+EME,0.081,1,1,,April McClain Delaney,2026-09-01,HOLD
+BRO,0.081,1,1,,April McClain Delaney,2026-09-01,HOLD
+SGI,0.081,1,1,,April McClain Delaney,2026-09-01,HOLD
+ENTG,0.081,1,1,,April McClain Delaney,2026-09-01,HOLD
+ORLY,0.079,2,1,,Kevin Hern,2026-09-15,HOLD
+CDNS,0.079,2,1,,Kevin Hern,2026-09-15,HOLD
+HUBB,-0.075,5,1,April McClain Delaney,April McClain Delaney,2026-09-01,HOLD
+LTH,-0.075,5,1,April McClain Delaney,April McClain Delaney,2026-09-01,HOLD
+MU,-0.072,3,1,John J. McGuire III,,2026-10-02,HOLD
+IBRX,0.071,2,1,Lisa C. McClain,,2026-10-01,HOLD
+REZI,-0.07,1,1,,Pete Sessions,2026-10-21,HOLD
+T,-0.068,3,1,David J. Taylor,,2026-11-12,HOLD
+DHR,0.068,2,1,,Kevin Hern,2026-09-15,HOLD
+TJX,0.068,5,2,,"Kevin Hern, Pete Sessions",2026-10-05,HOLD
+AIO,0.068,2,1,,Kevin Hern,2026-09-15,HOLD
+MA,-0.068,1,1,,Pete Sessions,2026-10-05,HOLD
+PKG,0.065,1,1,,April McClain Delaney,2026-09-01,HOLD
+CLH,0.065,1,1,,April McClain Delaney,2026-09-01,HOLD
+TSM,0.064,3,3,"Cleo Fields, Gilbert Ray Cisneros, Jr., Rick W. Allen",,2026-10-09,HOLD
+SNOW,0.062,4,2,"Gilbert Ray Cisneros, Jr., Maria Elvira Salazar",Maria Elvira Salazar,2026-10-01,HOLD
+TYG,0.059,1,1,,Jonathan L. Jackson,2026-10-01,HOLD
+MLM,0.059,2,1,April McClain Delaney,April McClain Delaney,2026-09-01,HOLD
+DLTR,-0.058,1,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+STRL,-0.058,1,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+PWR,0.058,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+ESE,-0.057,4,1,April McClain Delaney,April McClain Delaney,2026-09-01,HOLD
+CSX,0.057,2,1,,Kevin Hern,2026-09-15,HOLD
+AVGO,-0.056,5,4,"David J. Taylor, Rick W. Allen","Gilbert Ray Cisneros, Jr., John J. McGuire III",2026-11-12,HOLD
+DIS,-0.056,2,2,,"Kevin Hern, Pete Sessions",2026-10-28,HOLD
+VLTO,0.055,3,1,,Kevin Hern,2026-08-27,HOLD
+FWONK,-0.054,4,1,April McClain Delaney,April McClain Delaney,2026-09-01,HOLD
+JPM,-0.053,2,1,,Scott Franklin,2026-09-02,HOLD
+ACN,0.053,2,1,Scott Franklin,,2026-09-02,HOLD
+ATRC,-0.052,2,1,"Gilbert Ray Cisneros, Jr.","Gilbert Ray Cisneros, Jr.",2026-10-09,HOLD
+LRCX,-0.052,2,1,David J. Taylor,,2026-11-12,HOLD
+INTU,-0.052,2,1,"Gilbert Ray Cisneros, Jr.","Gilbert Ray Cisneros, Jr.",2026-10-09,HOLD
+CR,0.052,1,1,,Kevin Hern,2026-09-15,HOLD
+SOLS,-0.051,2,2,,"Kevin Hern, Pete Sessions",2026-10-21,HOLD
+RIG,0.05,1,1,Lisa C. McClain,,2026-10-01,HOLD
+OLN,0.05,1,1,Lisa C. McClain,,2026-10-01,HOLD
+MFP,0.05,1,1,,April McClain Delaney,2026-09-01,HOLD
+CACI,0.05,1,1,Lisa C. McClain,,2026-10-01,HOLD
+SYK,-0.049,1,1,,"Thomas H. Kean, Jr.",2026-10-07,HOLD
+ABBV,-0.046,1,1,,Pete Sessions,2026-09-18,HOLD
+BWXT,0.045,2,1,April McClain Delaney,April McClain Delaney,2026-09-01,HOLD
+TLK,0.045,1,1,,Josh Gottheimer,2026-11-04,HOLD
+MDLZ,-0.043,1,1,,"Thomas H. Kean, Jr.",2026-10-01,HOLD
+ESAB,0.043,1,1,"Thomas H. Kean, Jr.",,2026-10-01,HOLD
+AGIO,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+APG,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+APH,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+TYL,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+VRSK,-0.042,1,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+NET,-0.042,1,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+WPM,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+NEO,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+NFLX,-0.042,3,2,"Byron Donalds, Cleo Fields",,2026-09-14,HOLD
+WDC,-0.042,2,2,,"Gilbert Ray Cisneros, Jr., John J. McGuire III",2026-11-04,HOLD
+WDAY,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+EA,-0.042,1,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+CSGP,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+CECO,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+SHAK,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+CDW,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+SKHY,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+KMX,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+FSV,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+AORT,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+CCI,-0.042,1,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+HLI,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+HMN,0.042,1,1,"Gilbert Ray Cisneros, Jr.",,2026-09-04,HOLD
+COHR,-0.042,1,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+COIN,-0.042,1,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+DASH,-0.042,1,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+DCO,-0.042,1,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+AMD,-0.042,1,1,,"Gilbert Ray Cisneros, Jr.",2026-09-04,HOLD
+IBP,-0.041,3,1,David J. Taylor,,2026-11-12,HOLD
+NVS,0.04,1,1,,Kevin Hern,2026-09-15,HOLD
+PBA,0.04,1,1,,Kevin Hern,2026-09-15,HOLD
+NKE,-0.04,2,2,,"Gilbert Ray Cisneros, Jr., Kevin Hern",2026-09-04,HOLD
+GS,0.04,3,3,"Gilbert Ray Cisneros, Jr., Michael A. Rulli",Maria Elvira Salazar,2026-10-01,HOLD
+CHRW,-0.04,4,1,April McClain Delaney,April McClain Delaney,2026-09-01,HOLD
+CXT,0.04,1,1,,Kevin Hern,2026-09-15,HOLD
+RA,0.04,1,1,,Kevin Hern,2026-09-15,HOLD
+PRGS,0.04,1,1,,Kevin Hern,2026-09-15,HOLD
+CNP,0.04,1,1,,Kevin Hern,2026-09-15,HOLD
+ABT,-0.038,3,3,"Gilbert Ray Cisneros, Jr.","Pete Sessions, Thomas H. Kean, Jr.",2026-10-09,HOLD
+RPM,-0.038,2,1,David J. Taylor,,2026-10-29,HOLD
+AMAT,-0.036,3,1,Josh Gottheimer,Josh Gottheimer,2026-11-04,HOLD
+CAT,0.036,1,1,Lisa C. McClain,,2026-10-01,HOLD
+NG,0.036,1,1,Lisa C. McClain,,2026-10-01,HOLD
+WSBC,-0.034,1,1,,Michael A. Rulli,2026-10-16,HOLD
+WSM,-0.034,1,1,Rick Larsen,,2026-10-12,HOLD
+ADI,-0.034,1,1,Rick Larsen,,2026-10-12,HOLD
+MPC,0.033,2,1,,David J. Taylor,2026-10-29,HOLD
+MTSI,-0.033,3,1,"Gilbert Ray Cisneros, Jr.","Gilbert Ray Cisneros, Jr.",2026-11-09,HOLD
+KR,0.03,1,1,,David J. Taylor,2026-11-12,HOLD
+BA,0.029,3,2,,"Kevin Hern, Maria Elvira Salazar",2026-10-01,HOLD
+VUZI,0.028,1,1,,Kevin Hern,2026-09-15,HOLD
+F,0.028,1,1,,Kevin Hern,2026-09-15,HOLD
+ETV,0.028,1,1,,Kevin Hern,2026-09-15,HOLD
+ICLR,0.026,1,1,,Kevin Hern,2026-08-27,HOLD
+ADBE,0.026,1,1,,Kevin Hern,2026-08-27,HOLD
+MDT,0.026,1,1,,Kevin Hern,2026-08-27,HOLD
+VZ,0.026,2,2,"Gilbert Ray Cisneros, Jr.",Pete Sessions,2026-10-09,HOLD
+AMGN,0.025,3,1,David J. Taylor,David J. Taylor,2026-11-12,HOLD
+PLD,-0.022,1,1,David J. Taylor,,2026-10-29,HOLD
+FITB,-0.022,2,1,David J. Taylor,,2026-10-15,HOLD
+MTZ,0.021,1,1,"Thomas H. Kean, Jr.",,2026-09-01,HOLD
+AMCR,-0.021,1,1,,"Thomas H. Kean, Jr.",2026-09-01,HOLD
+HON,-0.02,3,3,,"Kevin Hern, Maria Elvira Salazar, Pete Sessions",2026-10-02,HOLD
+FDX,0.02,2,2,,"Maria Elvira Salazar, Rick Larsen",2026-10-12,HOLD
+SBUX,0.019,3,2,,"Kevin Hern, Pete Sessions",2026-10-05,HOLD
+ALC,0.018,1,1,,Kevin Hern,2026-08-27,HOLD
+WAT,0.018,1,1,,Kevin Hern,2026-08-27,HOLD
+BUD,0.018,1,1,,Kevin Hern,2026-08-27,HOLD
+HRL,0.018,1,1,,Kevin Hern,2026-08-27,HOLD
+OTIS,0.018,1,1,,Kevin Hern,2026-08-27,HOLD
+KMB,0.018,1,1,,Kevin Hern,2026-08-27,HOLD
+GAP,0.018,1,1,,Kevin Hern,2026-08-27,HOLD
+CARR,0.018,1,1,,Kevin Hern,2026-08-27,HOLD
+PEP,-0.017,3,2,Scott Franklin,Pete Sessions,2026-10-21,HOLD
+V,-0.016,3,2,,"David J. Taylor, Pete Sessions",2026-11-12,HOLD
+URI,-0.015,1,1,,Maria Elvira Salazar,2026-10-01,HOLD
+MRVL,-0.015,1,1,,Maria Elvira Salazar,2026-10-01,HOLD
+C,-0.015,1,1,,Maria Elvira Salazar,2026-10-01,HOLD
+BEP,-0.015,1,1,,Maria Elvira Salazar,2026-10-01,HOLD
+CRM,-0.015,1,1,,Maria Elvira Salazar,2026-10-01,HOLD
+GE,-0.015,1,1,,Maria Elvira Salazar,2026-10-01,HOLD
+GLW,-0.015,3,1,Maria Elvira Salazar,Maria Elvira Salazar,2026-10-01,HOLD
+RH,-0.015,1,1,,Maria Elvira Salazar,2026-10-01,HOLD
+PTON,-0.015,1,1,,Maria Elvira Salazar,2026-10-01,HOLD
+QCOM,-0.015,2,1,,Maria Elvira Salazar,2026-09-01,HOLD
+QSR,-0.014,1,1,Josh Gottheimer,,2026-09-14,HOLD
+LOW,-0.012,4,2,,"Kevin Hern, Pete Sessions",2026-10-22,HOLD
+CB,-0.011,4,2,Kevin Hern,"Kevin Hern, Maria Elvira Salazar",2026-10-02,HOLD
+CVX,-0.01,3,3,Maria Elvira Salazar,"Kevin Hern, Pete Sessions",2026-10-14,HOLD
+SPCX,-0.007,2,1,Maria Elvira Salazar,Maria Elvira Salazar,2026-10-01,HOLD
+AEP,-0.006,1,1,David J. Taylor,,2026-09-03,HOLD
+VRTX,0.006,1,1,,David J. Taylor,2026-09-03,HOLD
+XOM,0.005,2,2,,"Kevin Hern, Pete Sessions",2026-10-14,HOLD
+ROL,-0.005,2,2,,"April McClain Delaney, Rick W. Allen",2026-09-15,HOLD
+BAC,0.004,1,1,,Laurel M. Lee,2026-09-21,HOLD
+MRK,-0.004,2,1,Maria Elvira Salazar,Maria Elvira Salazar,2026-10-01,HOLD
+BIIB,0.004,2,2,,"Kevin Hern, Maria Elvira Salazar",2026-10-01,HOLD
+NOKBF,-0.003,1,1,Laurel M. Lee,,2026-09-21,HOLD
+PH,-0.003,2,1,,Byron Donalds,2026-09-01,HOLD
+HWM,-0.003,2,1,,Byron Donalds,2026-09-01,HOLD
+OKTA,0.0,2,1,Maria Elvira Salazar,Maria Elvira Salazar,2026-10-01,HOLD
